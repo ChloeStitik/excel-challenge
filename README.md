@@ -26,6 +26,6 @@ There is more variability with the successful campaigns. This would make sense b
 
 ![image](Images/Picture2.png)
 
-![image](images/Picture3.png)
+![image](Images/Picture3.png)
 
-![image](images/Picture4.png)
+![image](Images/Picture4.png)
